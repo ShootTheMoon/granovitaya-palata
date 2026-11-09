@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="openstreetmap-cgimap 2.1.0 (2023230 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <node id="416874260" visible="true" version="10" changeset="142356504" timestamp="2023-10-09T16:06:14Z" user="Felis Pimeja" uid="260756" lat="55.7506652" lon="37.6169253"/>
+ <node id="2368886619" visible="true" version="8" changeset="142356504" timestamp="2023-10-09T16:06:14Z" user="Felis Pimeja" uid="260756" lat="55.7503548" lon="37.6165013"/>
+ <node id="2368886662" visible="true" version="8" changeset="142356504" timestamp="2023-10-09T16:06:14Z" user="Felis Pimeja" uid="260756" lat="55.7504275" lon="37.6170288"/>
+ <node id="2617177102" visible="true" version="5" changeset="142356504" timestamp="2023-10-09T16:06:14Z" user="Felis Pimeja" uid="260756" lat="55.7505911" lon="37.6169575">
+  <tag k="entrance" v="yes"/>
+ </node>
+ <node id="5187960043" visible="true" version="6" changeset="142356504" timestamp="2023-10-09T16:06:14Z" user="Felis Pimeja" uid="260756" lat="55.7503655" lon="37.6165789">
+  <tag k="entrance" v="main"/>
+  <tag k="name" v="Святые сени"/>
+ </node>
+ <node id="5188022528" visible="true" version="4" changeset="142356504" timestamp="2023-10-09T16:06:14Z" user="Felis Pimeja" uid="260756" lat="55.7504728" lon="37.6164368"/>
+ <node id="5188022529" visible="true" version="4" changeset="142356504" timestamp="2023-10-09T16:06:14Z" user="Felis Pimeja" uid="260756" lat="55.7506296" lon="37.6164229"/>
+ <node id="5188044473" visible="true" version="5" changeset="142356504" timestamp="2023-10-09T16:06:14Z" user="Felis Pimeja" uid="260756" lat="55.7506176" lon="37.6162972"/>
+ <node id="11251397044" visible="true" version="1" changeset="142356504" timestamp="2023-10-09T16:06:13Z" user="Felis Pimeja" uid="260756" lat="55.7503572" lon="37.6165185"/>
+ <node id="11251397386" visible="true" version="1" changeset="142356504" timestamp="2023-10-09T16:06:13Z" user="Felis Pimeja" uid="260756" lat="55.7505474" lon="37.6164040"/>
+ <node id="11251397651" visible="true" version="1" changeset="142356504" timestamp="2023-10-09T16:06:13Z" user="Felis Pimeja" uid="260756" lat="55.7505802" lon="37.6163085"/>
+ <node id="11251397664" visible="true" version="1" changeset="142356504" timestamp="2023-10-09T16:06:13Z" user="Felis Pimeja" uid="260756" lat="55.7503531" lon="37.6164895"/>
+ <node id="11251397666" visible="true" version="1" changeset="142356504" timestamp="2023-10-09T16:06:13Z" user="Felis Pimeja" uid="260756" lat="55.7505908" lon="37.6163848"/>
+ <node id="11251397746" visible="true" version="1" changeset="142356504" timestamp="2023-10-09T16:06:13Z" user="Felis Pimeja" uid="260756" lat="55.7504002" lon="37.6168303"/>
+ <node id="11251397747" visible="true" version="1" changeset="142356504" timestamp="2023-10-09T16:06:13Z" user="Felis Pimeja" uid="260756" lat="55.7503970" lon="37.6168073"/>
+ <node id="11251397748" visible="true" version="1" changeset="142356504" timestamp="2023-10-09T16:06:13Z" user="Felis Pimeja" uid="260756" lat="55.7503836" lon="37.6167099"/>
+ <node id="11251397749" visible="true" version="1" changeset="142356504" timestamp="2023-10-09T16:06:13Z" user="Felis Pimeja" uid="260756" lat="55.7503806" lon="37.6166885"/>
+ <node id="11251397750" visible="true" version="1" changeset="142356504" timestamp="2023-10-09T16:06:13Z" user="Felis Pimeja" uid="260756" lat="55.7503685" lon="37.6166007"/>
+ <node id="11251397757" visible="true" version="1" changeset="142356504" timestamp="2023-10-09T16:06:13Z" user="Felis Pimeja" uid="260756" lat="55.7504117" lon="37.6169141"/>
+ <node id="11251397766" visible="true" version="1" changeset="142356504" timestamp="2023-10-09T16:06:13Z" user="Felis Pimeja" uid="260756" lat="55.7504376" lon="37.6170244"/>
+ <node id="11251397768" visible="true" version="1" changeset="142356504" timestamp="2023-10-09T16:06:13Z" user="Felis Pimeja" uid="260756" lat="55.7504245" lon="37.6170066"/>
+ <node id="11251397779" visible="true" version="1" changeset="142356504" timestamp="2023-10-09T16:06:13Z" user="Felis Pimeja" uid="260756" lat="55.7506038" lon="37.6164798"/>
+ <node id="11251397780" visible="true" version="1" changeset="142356504" timestamp="2023-10-09T16:06:13Z" user="Felis Pimeja" uid="260756" lat="55.7506341" lon="37.6164707"/>
+ <node id="11251397782" visible="true" version="1" changeset="142356504" timestamp="2023-10-09T16:06:13Z" user="Felis Pimeja" uid="260756" lat="55.7505916" lon="37.6163051"/>
+ <way id="228253432" visible="true" version="5" changeset="142356504" timestamp="2023-10-09T16:06:15Z" user="Felis Pimeja" uid="260756">
+  <nd ref="11251397044"/>
+  <nd ref="5187960043"/>
+  <nd ref="11251397750"/>
+ </way>
+ <way id="228253480" visible="true" version="4" changeset="142356504" timestamp="2023-10-09T16:06:15Z" user="Felis Pimeja" uid="260756">
+  <nd ref="11251397766"/>
+  <nd ref="2617177102"/>
+  <nd ref="416874260"/>
+ </way>
+ <way id="535154040" visible="true" version="2" changeset="142356504" timestamp="2023-10-09T16:06:15Z" user="Felis Pimeja" uid="260756">
+  <nd ref="416874260"/>
+  <nd ref="11251397779"/>
+ </way>
+ <way id="535160489" visible="true" version="2" changeset="53228958" timestamp="2017-10-25T08:20:21Z" user="Антін Сартенченко" uid="571410">
+  <nd ref="5188022529"/>
+  <nd ref="5188044473"/>
+ </way>
+ <way id="1214371116" visible="true" version="1" changeset="142356504" timestamp="2023-10-09T16:06:14Z" user="Felis Pimeja" uid="260756">
+  <nd ref="2368886619"/>
+  <nd ref="11251397044"/>
+ </way>
+ <way id="1214371306" visible="true" version="1" changeset="142356504" timestamp="2023-10-09T16:06:14Z" user="Felis Pimeja" uid="260756">
+  <nd ref="11251397386"/>
+  <nd ref="5188022528"/>
+ </way>
+ <way id="1214371307" visible="true" version="1" changeset="142356504" timestamp="2023-10-09T16:06:14Z" user="Felis Pimeja" uid="260756">
+  <nd ref="11251397780"/>
+  <nd ref="5188022529"/>
+ </way>
+ <way id="1214371308" visible="true" version="1" changeset="142356504" timestamp="2023-10-09T16:06:14Z" user="Felis Pimeja" uid="260756">
+  <nd ref="11251397779"/>
+  <nd ref="11251397780"/>
+ </way>
+ <way id="1214371513" visible="true" version="1" changeset="142356504" timestamp="2023-10-09T16:06:14Z" user="Felis Pimeja" uid="260756">
+  <nd ref="11251397651"/>
+  <nd ref="11251397666"/>
+  <nd ref="11251397386"/>
+ </way>
+ <way id="1214371514" visible="true" version="1" changeset="142356504" timestamp="2023-10-09T16:06:14Z" user="Felis Pimeja" uid="260756">
+  <nd ref="5188044473"/>
+  <nd ref="11251397782"/>
+ </way>
+ <way id="1214371515" visible="true" version="1" changeset="142356504" timestamp="2023-10-09T16:06:14Z" user="Felis Pimeja" uid="260756">
+  <nd ref="11251397782"/>
+  <nd ref="11251397651"/>
+ </way>
+ <way id="1214371519" visible="true" version="1" changeset="142356504" timestamp="2023-10-09T16:06:14Z" user="Felis Pimeja" uid="260756">
+  <nd ref="5188022528"/>
+  <nd ref="11251397664"/>
+ </way>
+ <way id="1214371524" visible="true" version="1" changeset="142356504" timestamp="2023-10-09T16:06:14Z" user="Felis Pimeja" uid="260756">
+  <nd ref="2368886619"/>
+  <nd ref="11251397664"/>
+ </way>
+ <way id="1214371591" visible="true" version="1" changeset="142356504" timestamp="2023-10-09T16:06:14Z" user="Felis Pimeja" uid="260756">
+  <nd ref="11251397757"/>
+  <nd ref="11251397768"/>
+ </way>
+ <way id="1214371592" visible="true" version="1" changeset="142356504" timestamp="2023-10-09T16:06:14Z" user="Felis Pimeja" uid="260756">
+  <nd ref="11251397746"/>
+  <nd ref="11251397757"/>
+ </way>
+ <way id="1214371593" visible="true" version="1" changeset="142356504" timestamp="2023-10-09T16:06:14Z" user="Felis Pimeja" uid="260756">
+  <nd ref="11251397747"/>
+  <nd ref="11251397746"/>
+ </way>
+ <way id="1214371594" visible="true" version="1" changeset="142356504" timestamp="2023-10-09T16:06:14Z" user="Felis Pimeja" uid="260756">
+  <nd ref="11251397748"/>
+  <nd ref="11251397747"/>
+ </way>
+ <way id="1214371595" visible="true" version="1" changeset="142356504" timestamp="2023-10-09T16:06:14Z" user="Felis Pimeja" uid="260756">
+  <nd ref="11251397749"/>
+  <nd ref="11251397748"/>
+ </way>
+ <way id="1214371596" visible="true" version="1" changeset="142356504" timestamp="2023-10-09T16:06:14Z" user="Felis Pimeja" uid="260756">
+  <nd ref="11251397750"/>
+  <nd ref="11251397749"/>
+ </way>
+ <way id="1214371629" visible="true" version="1" changeset="142356504" timestamp="2023-10-09T16:06:14Z" user="Felis Pimeja" uid="260756">
+  <nd ref="11251397768"/>
+  <nd ref="2368886662"/>
+ </way>
+ <way id="1214371631" visible="true" version="1" changeset="142356504" timestamp="2023-10-09T16:06:14Z" user="Felis Pimeja" uid="260756">
+  <nd ref="2368886662"/>
+  <nd ref="11251397766"/>
+ </way>
+ <relation id="7679578" visible="true" version="21" changeset="168540295" timestamp="2025-07-05T21:42:12Z" user="J_Doe" uid="1925053">
+  <member type="way" ref="535160489" role="outer"/>
+  <member type="way" ref="1214371514" role="outer"/>
+  <member type="way" ref="1214371515" role="outer"/>
+  <member type="way" ref="1214371513" role="outer"/>
+  <member type="way" ref="1214371306" role="outer"/>
+  <member type="way" ref="1214371519" role="outer"/>
+  <member type="way" ref="1214371524" role="outer"/>
+  <member type="way" ref="1214371116" role="outer"/>
+  <member type="way" ref="228253432" role="outer"/>
+  <member type="way" ref="1214371596" role="outer"/>
+  <member type="way" ref="1214371595" role="outer"/>
+  <member type="way" ref="1214371594" role="outer"/>
+  <member type="way" ref="1214371593" role="outer"/>
+  <member type="way" ref="1214371592" role="outer"/>
+  <member type="way" ref="1214371591" role="outer"/>
+  <member type="way" ref="1214371629" role="outer"/>
+  <member type="way" ref="1214371631" role="outer"/>
+  <member type="way" ref="228253480" role="outer"/>
+  <member type="way" ref="535154040" role="outer"/>
+  <member type="way" ref="1214371308" role="outer"/>
+  <member type="way" ref="1214371307" role="outer"/>
+  <tag k="building:colour" v="white"/>
+  <tag k="building:part" v="yes"/>
+  <tag k="height" v="21"/>
+  <tag k="name" v="Грановитая палата"/>
+  <tag k="name:ca" v="Palau de les Facetes"/>
+  <tag k="name:de" v="Facettenpalast"/>
+  <tag k="name:en" v="Palace of the Facets"/>
+  <tag k="name:es" v="Palacio de las Facetas"/>
+  <tag k="name:fr" v="Palais à Facettes"/>
+  <tag k="name:it" v="Palazzo delle Faccette"/>
+  <tag k="name:pt" v="Palácio das Facetas"/>
+  <tag k="name:ru" v="Грановитая палата"/>
+  <tag k="name:zh" v="多棱宫"/>
+  <tag k="tourism" v="museum"/>
+  <tag k="type" v="multipolygon"/>
+  <tag k="wikidata" v="Q2307647"/>
+  <tag k="wikipedia" v="ru:Грановитая палата"/>
+  <tag k="window" v="no"/>
+ </relation>
+</osm>
